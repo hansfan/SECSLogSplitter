@@ -16,6 +16,7 @@ namespace SECSLogSplitter
             if (args.Length == 1)
             {
                 string path = args[0].Trim();
+
                 Execute(path);
             }
             else
@@ -79,6 +80,7 @@ namespace SECSLogSplitter
         private string pattern4SECSEnd = @"^\.$";
         private List<string> list4XML;
         private List<string> list4SECS;
+        private const int DATESIZE = 20;
 
         public InputStream(string path)
         {
@@ -131,8 +133,20 @@ namespace SECSLogSplitter
                         }
                         else if (regexSECSStart.IsMatch(tmp))
                         {
+
                             //filter Date
-                            tmp = tmp.Substring(20).Trim();
+                            //tmp = tmp.Substring(20).Trim();
+
+                            //title add Date
+                            string date = string.Empty;
+                            int index = -1;
+
+                            date = tmp.Substring(0, DATESIZE - 1).Replace(":", "_");
+                            tmp = tmp.Substring(DATESIZE);
+                            index = tmp.IndexOf(":");
+                            tmp = date + tmp.Substring(index);
+
+
                             do
                             {
                                 list4SECS.Add(tmp);
