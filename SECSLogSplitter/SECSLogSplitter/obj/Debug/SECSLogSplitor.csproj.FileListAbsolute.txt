@@ -1,0 +1,8 @@
+D:\github\SECSLogSplitor\SECSLogSplitor\SECSLogSplitor\bin\Debug\SECSLogSplitor.exe.config
+D:\github\SECSLogSplitor\SECSLogSplitor\SECSLogSplitor\bin\Debug\SECSLogSplitter.exe.config
+D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\bin\Debug\SECSLogSplitter.exe.config
+D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\obj\Debug\SECSLogSplitor.csprojResolveAssemblyReference.cache
+D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\bin\Debug\SECSLogSplitter.exe
+D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\bin\Debug\SECSLogSplitter.pdb
+D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\obj\Debug\SECSLogSplitter.exe
+D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\obj\Debug\SECSLogSplitter.pdb

@@ -1,0 +1,5 @@
+D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\bin\Release\SECSLogSplitter.exe.config
+D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\bin\Release\SECSLogSplitter.exe
+D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\bin\Release\SECSLogSplitter.pdb
+D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\obj\Release\SECSLogSplitter.exe
+D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\obj\Release\SECSLogSplitter.pdb
