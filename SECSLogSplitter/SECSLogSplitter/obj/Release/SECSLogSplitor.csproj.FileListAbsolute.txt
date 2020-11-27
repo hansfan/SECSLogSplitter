@@ -3,3 +3,4 @@ D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\bin\Release\SECSLogSpl
 D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\bin\Release\SECSLogSplitter.pdb
 D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\obj\Release\SECSLogSplitter.exe
 D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\obj\Release\SECSLogSplitter.pdb
+D:\github\SECSLogSplitter\SECSLogSplitter\SECSLogSplitter\obj\Release\SECSLogSplitor.csprojResolveAssemblyReference.cache

@@ -48,12 +48,13 @@ namespace SECSLogSplitter
 
             directoryName = Path.GetDirectoryName(path);
             fileName = Path.GetFileNameWithoutExtension(path);
-            this._path = directoryName + fileName;
+            this._path = directoryName + @"\" + fileName;
 
         }
 
         public void Output(List<string>.Enumerator enumerator, string ExtensionName)
         {
+
             using (writer = new StreamWriter(this._path + ExtensionName))
             {
                 while (enumerator.MoveNext())
